@@ -11,7 +11,7 @@ https://hub.docker.com/r/emirob/emi-repo/tags
 docker pull command
 
 ```bash
-docker pull emirob/emi-repo
+docker pull emirob/emi-repo:floor_service
 ```
 
 ## Requirements

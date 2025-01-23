@@ -1,0 +1,1 @@
+docker tag floor_service emirob/emi-repo:floor_service

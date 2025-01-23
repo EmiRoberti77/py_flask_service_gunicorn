@@ -1,2 +1,2 @@
 echo "build service"
-docker build -t emirob/emi-repo:floor_service .
+docker build -t floor_service .

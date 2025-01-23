@@ -4,6 +4,16 @@
 
 This is a simple Flask-based API that handles POST requests. The service receives a JSON payload containing a numeric input, calculates the floor of the number, and returns the result.
 
+docker image url
+
+https://hub.docker.com/r/emirob/emi-repo/tags
+
+docker pull command
+
+```bash
+docker pull emirob/emi-repo
+```
+
 ## Requirements
 
 To run this application, ensure you have the following:

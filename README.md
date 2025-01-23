@@ -113,7 +113,6 @@ The application redirects logs to Gunicorn when run in production mode. Log mess
 ## Notes
 
 - Ensure that you have properly set up logging when deploying with Gunicorn.
-- The app includes a simple `math.floor()` calculation; additional error handling can be added as needed for robustness.
 
 ---
 
